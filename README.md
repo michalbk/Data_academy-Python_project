@@ -32,6 +32,7 @@ Cílem bylo najít odpovědi na následující otázky, které pomohou zefektivn
 - na 16 stanicích je nedostatek kol (úbytek > 1 kolo za den)
 
 #### 4. Jaké jsou vzdálenosti mezi jednotlivými stanicemi?
+- byla vytvořena interaktivní mapa rozmístění stanic
 - byla vypočítána matice vzdáleností 199x199 stanic viz výsledky analýzy
 
 #### 5. Jak se vyvíjí poptávka po kolech v čase a jaké jsou příčiny výkyvu poptávky?
@@ -40,7 +41,7 @@ Cílem bylo najít odpovědi na následující otázky, které pomohou zefektivn
 
 #### 6. Jaký vliv má na poptávku počasí?
 - poptávku ovlivňují mezní hodnoty teploty vzduchu (okolí bodu mrazu a 20 °C)
-- v deštivých dnech výrazně klesá počet vyjížděk
+- poptávka je výrazně ovlivněna deštěm a také vyššími hodnotami rychlosti větru
 
 #### 7. Půjčují si lidé kola více o víkendu, nebo v pracovních dnech?
 - o víkendu je vyšší zájem o kola oproti pracovním dnům
